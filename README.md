@@ -15,3 +15,6 @@
 
 ### perlin field influnce
 ![](imgs/perlinField.gif)
+
+## results
+![](imgs/results1.png) ![](imgs/results2.png)
