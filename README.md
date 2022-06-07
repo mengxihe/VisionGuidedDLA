@@ -1,5 +1,9 @@
 # VisionGuidedDLA
 ![](imgs/title.PNG)
 
-###dataflow
+### dataflow
 ![](imgs/dataflow.png)
+
+
+### perlin field influnce
+![](imgs/perlinField.gif)
